@@ -65,8 +65,5 @@ For future projects I need to focus on using more advanced CSS to create effects
 - [Using only CSS, show div on hover over another element](https://stackoverflow.com/questions/5210033/using-only-css-show-div-on-hover-over-another-element) - This Stack Overflow question helped me to figure out how to show the view icon on hover.
 
 ## Author
-
-- Website - [Nakoya Wilson](https://nakoyawilson.netlify.app/)
-- Frontend Mentor - [@nakoyawilson](https://www.frontendmentor.io/profile/nakoyawilson)
-- Twitter - [@nakoyawilson](https://twitter.com/nakoyawilson)
-- LinkedIn - [@nakoyawilson](https://www.linkedin.com/in/nakoyawilson/)
+- Twitter - [@khaledb93550140](https://twitter.com/khaledb93550140)
+- LinkedIn - [@khaled benahmed](https://www.linkedin.com/in/khaled-benahmed-80a453221/)
